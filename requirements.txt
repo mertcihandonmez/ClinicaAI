@@ -1,0 +1,5 @@
+sqlite-vec
+sentence-transformers
+pypdf
+pandas
+streamlit

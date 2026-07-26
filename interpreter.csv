@@ -1,0 +1,418 @@
+@lat	@lon	name	addr:city	addr:district
+39.9254075	32.8319519	Başkent Üniversitesi Hastanesi		
+39.9047963	32.8633166	Özel Çankaya Hastanesi		
+39.9093866	32.8598732	Özel Biltaş Böbrek Taşı Kırma Merkezi		
+37.0399394	27.4289622	Bodrum Amerikan Hastanesi		
+40.0608258	32.1163283	Doktor		
+40.0608996	32.1165340	Fizik Tedavi Merkezi		
+39.9043285	32.8664682	Özel Denge İç Hastalıkları Merkezi		
+39.8932607	32.8796874	Semt Polikliniği		
+36.6223089	29.1150102			
+41.0259618	29.0218119	Hospital Türk		
+38.7282169	35.4932213			
+41.0336496	28.9641454			
+41.0111084	29.0190475			
+36.8566029	30.7468263	Medical Park		
+39.8976812	41.2398127	Yakutiye Araştırma Hastanesi	Erzurum	
+41.0060255	28.7968486	Vera Tıp Merkezi		
+41.0964088	29.0535611	Baltalimanı Hastanesi		
+41.0632063	29.0042388	Florence Nightingale	İstanbul	Beşiktaş
+41.0396776	29.0522183	Özel Küplüce Tıp Merkez		
+38.7370205	41.4942881	Şifa Hastanesi		
+40.8787769	29.2368748	Özel Remedy Hospital		
+41.0479666	28.8449942	Özel Bağcılar Tekden Hastanesi		
+40.9776640	28.8730593	Acıbadem Hospital		
+37.8600215	27.2678679	Kuşadası Özel Hastanesi		
+40.2109163	28.9755935	Anadolu Hastanesi		
+41.6855268	26.5432238	Bayezıd Ünitesi		
+37.8274484	30.5399429	SDÜ Araştırma ve Uygulama Hastanesi		
+40.7933683	29.4333872	Gebze Şifa Tıp Merkezi		
+41.0672214	29.0013232	Çevre Hastanesi		
+41.0673508	29.0013661	Aksoy Hastanesi		
+41.0112282	28.6428053	Birinci Göz Hastanesi Beylikdüzü		
+41.0190770	28.6274846	Dünya Göz Hastanesi Beykent		
+41.0533806	28.9952948	Amerikan Hastanesi		
+39.9595395	32.5667538	Nurlu Göz Hastanesi		
+41.0574490	28.9158289	Belde Tıp Merkezi		
+41.0347149	28.6806966	Alataş Polikliniği		
+39.0058606	31.1442464		Emirdağ	
+37.3542553	27.2682281	Hastane		
+38.4320160	27.1473523	Kaşkaloğlu Göz Hastanesi		
+41.0054462	28.7061163	Özel Avcılar Anadolu Hastanesi		
+40.9947818	28.7095930	Özel Avcılar Hospital	istanbul	avcılar
+40.9812753	28.7211479	Özel Medicana Hastanesi		
+37.5775797	36.9287658	Hayat Hastanesi		
+41.0554676	28.9983966	İstanbul Tüpbebek		
+41.0327835	28.9640160	Kasım Paşa Asker Hastanesi		
+38.4640228	27.0932624	Başkent Üniversitesi Zübeyde Hanım Uygulama Merkezi	Karsiyaka	
+36.6143708	30.5556965	Anadolu hastanesi		
+37.7404059	29.1067181	PAÜ Tıp Fakültesi Acil Servis		
+36.6643272	30.5597447	Orçun Eczanesi	göynük	
+37.9694908	34.6462647	Niğde Ömer Halisdemir Üniversitesi Eğitim Ve Araştırma Hastanesi		
+38.4613584	27.1160003	Zübeyde Hanım Tıp Merkezi		
+38.4499935	27.2036447	Özel EntoKBB Cerrahi Tıp Merkezi		
+38.3490534	38.3226480	Hayat Hastanesi		
+39.9646800	32.9550957	Hüseyingazi Semt Polikliniği	Mamak/Ankara	
+39.9572683	32.8953316	Ankara Numune Hastanesi Siteler		
+36.7830044	34.5920230	Yenişehir Hastanesi		
+41.0789994	28.9270647	Alibey Hastanesi		
+36.9870027	35.3075898	Hacetepeliler Cerrahi Tıp Merkezi		
+39.9064721	32.8635098	Özel Koru Kavaklıdere Hastanesi		
+40.7012589	40.2313934	Ataköy Ruh ve Sinir Hastalıkları Hastanesi		
+40.8118114	39.6111683	Maçka Ömer Burhanoğlu Fizik Tedavi ve Rehabilitasyon Hastanesi		
+39.8924972	32.8263122	Özel Ankara Cerrahi Tıp Merkezi		
+41.0241414	28.9166504	Koç Üniversitesi Hastanesi		
+41.0178075	28.6608987	Özel Mediplus Tıp Merkezi		
+40.9970758	28.8560596	Bakırköy Dr. Sadi Konuk Eğitim ve Araştırma Hastanesi Bahçelievler Polikliniği		
+36.9938983	35.3243209	Özel Adana Hastanesi		
+37.9214896	40.2583356	Dicle Üni. Çocuk Hastanesi		
+39.9446624	32.7189293			
+39.9446434	32.7186639			
+39.9446434	32.7191346			
+41.4494855	27.9320990	Pazarcık Aile Sağlığı Merkezi		
+40.7814324	30.4001928	Bilge Hastanesi		
+37.0645025	37.3949350	Özel Deva Hastanesi		
+41.0245743	28.9742012	Beyoğlu Göz Hastanesi		
+40.1154569	26.4135683	ÇOMÜ Tıp Fakültesi Hastanesi		
+41.0614165	28.8016254	Özel Akgün Tem Hastanesi		
+41.0314549	28.9749110	Beyoglu		
+40.9784959	27.5118297	Özel Star Medica Hospital		
+41.0113498	28.6451328			
+40.2062437	28.9937293	Özel Jimer Hastanesi		
+41.0437273	28.8796744	Güney Hastanesi		
+39.8908191	32.7105063	Medisun Hastanesi		
+41.0125315	28.9400268	Medipol Üniversitesi Fındıkzade Hastanesi	İstanbul	Fatih
+41.0156766	28.9507717	Özel Fatih Hastanesi	İstanbul	Fatih
+41.0555721	28.9980027	İstanbul Cerrahi Hastanesi		
+37.8778385	32.4890780	Özel Selçuklu Hastanesi		
+37.8780142	32.4889041	Özel Büyükşehir Hastanesi		
+41.0092457	28.9457972	istanbul Eğitim ve Araştırma Hastanesi Poliklinikleri	İstanbul	Fatih
+41.0091541	28.9432435	İstanbul Üniversitesi Kardiyoloji enistitusu	İstanbul	Fatih
+37.8982881	32.4845477	Dünyagöz Hastanesi		
+39.6450003	27.8753345	Balıkesir Devlet Hastanesi Turgut Solak Hizmet Binası	Balıkesir	Karesi
+40.9939323	28.9146943	Surp Pırgiç Ermeni Hastanesi		
+41.0301322	28.8712404	Bağcılar Eğitim ve Araştırma Hastanesi	İstanbul	Bağcılar
+37.9194513	40.2687925	Diş Hekimliği Fakültesi Hastanesi	Diyarbakır	
+41.0656093	28.8999746	Özel İstanbul Şafak Hastahanesi		
+38.4404593	27.1432668	ozel kent		
+41.1049081	28.8645332	Özel gop Yaşam Diyaliz Merkezi		
+41.1034186	28.8616773	İstanbulum Tıp Merkezi		
+40.7921304	29.3672996	HOSPİTAL PARK		
+41.0589817	29.0010012	Dora Hospital		
+41.1503954	27.8492859	Vatan Hastanesi		
+41.1502033	27.8492073	Vatan Hastanesi Acil		
+40.7727757	30.4059941	Özel İnci Göz Hastanesi		
+41.2820828	36.3207179	Samsun Fizik Tedavi Hastanesi		
+40.1588118	26.4093840	Askeri Hastane		
+41.0025336	27.8472452	Özel Yaşam Polikliniği		
+40.9731244	27.9491812	Özel Marmara Ereğlisi Polikliniği		
+41.7186471	27.2147763	Derman Diyaliz Merkezi		
+41.4036983	27.3551443	Özel Derman Hastanesi	Lüleburgaz	Lüleburgaz
+40.8510188	26.6481435	Keşan Devlet Hastanesi Baştabipliği		
+40.9694570	29.2577380	Saygı Hastanesi Ayak Sağlığı Birimi	İstanbul	Sultanbeyli
+40.9697567	29.2581715	Saygı Hastanesi	İstanbul	Sultanbeyli
+40.9685018	29.2534249	Sultanbeyli Dünyagöz Hastanesi	İstanbul	Sultanbeyli
+36.8753724	31.1113393	Serik Karadayı Sağlık Ocağı	Serik	Serik
+41.0704006	29.0200903	Neolife		
+40.9636827	29.2657830	T.C. Sağlık Bakanlığı İstanbul Tacirler Eğitim Vakfı Sultanbeyli İlçe Devlet Hastanesi Merkez Polikliniği	İstanbul	Sultanbeyli
+40.9665720	29.2694043	Ersoy Hastanesi	İstanbul	Sultanbeyli
+40.9651770	29.2659788	İstanbul Tacirler Eğitim Vakfı T.E.V. Sultanbeyli İlçe Devlet Hastanesi	İstanbul	Sultanbeyli
+40.9670638	29.2612337	Sultanbeyli Avrupa Göz Hastanesi	İstanbul	Sultanbeyli
+40.9996039	28.9175398	balıklı rum hastanesi vakfı	İstanbul	Zeytinburnu
+41.0021036	28.9152374	Yedikule Göğüş Hastalıkları Hastanesi	İstanbul	Zeytinburnu
+40.9938689	28.9152516	Yedikule Surp PIRGIÇ ERMENI Hastanesi	İstanbul	Zeytinburnu
+40.9956164	28.9148279	SÜLEYMANİYE KADIN DOĞUM VE ÇOCUK HASTANESİ	İstanbul	Zeytinburnu
+41.0487960	28.8595084	MEDILIFE HASTANESİ	İstanbul	Bağcılar
+41.0314854	28.8261810	Aksa	İstanbul	Bağcılar
+41.0345832	28.8550884	Özel Hospitalist Hastanesi	İstanbul	Bağcılar
+37.5724298	36.9243713	Özel Uğur Göz Hastanesi		
+40.9920204	28.8813608	İstanbul Eğitim ve Araştırma Hastanesi Osmaniye Semt Poliklinği		
+37.0570333	37.3771729	Tam-Med Hastanesi		
+37.0601601	37.3791426	Özel Gaziantep Sevgi Hastanesi		
+41.0797533	28.9066811	Gaziosmanpaşa Özel Başarı Hastanesi		
+41.0633215	28.7467250	Dayıoğlu Tıp Merkezi		
+41.0043457	29.0257508	Haydarpaşa Numune Eğitim ve Araştırma Hastanesi Tıbbiye Binası		
+41.0732107	28.9032530			
+37.0273730	35.4016623	Batıkent Hastanesi		
+36.6846109	28.0590069	Bozburun sağlık ocağı		
+41.1524163	27.7982085	Askent Aile Sağlığı Merkezi		
+40.8551418	26.6343517	Özel Derman Diyaliz Merkezi	Edirne	Keşan
+40.8830200	29.2361908	Özel Pendik Şifa Hastanesi	İstanbul	Pendik
+36.9182170	30.6934529	Dünya Göz		
+41.0824606	29.0370934	Dűnyagöz		
+40.8788795	29.2362412	Dünya Göz Hastanesi	İstanbul	Pendik
+41.0044482	29.0227593	Haydarpaşa Numune Hastanesi		
+41.0800511	28.8059014	İstanbullu OSGB		
+41.2924008	27.9069666	Yanıkağıl Aile Sağlığı Merkezi		Kapaklı
+39.6321871	29.3976820	Halk Hastanesi		
+38.4774606	27.0968638	Özel Metropol Şemikler Tıp Merkezi		
+37.1731904	33.2226255	Özel Selçuklu Hastanesi		
+41.0028566	39.7042028	Kuzey Göz Hastalıkları Merkezi		
+41.0214296	29.0158947	Özel Üsküdar Anadolu Hastanesi		
+41.0624452	28.9864126	Doktor Levent Polikliniği	İstanbul	Şişli
+39.9537617	32.6281702	A LIFE HOSPİTAL		
+41.4765348	27.8705257	Edirköy Köy Sağlık Evi		
+41.3492665	27.8841409	Bahçeağıl Köy Sağlık Evi		
+41.4077734	27.9706190	Küçükyoncalı Köyü Aile Sağlığı Merkezi		
+41.0205828	28.5809717	Özel 2000 Tıp Merkezi		
+41.0603661	28.6760478	Özel Elitium	İstanbul	Esenyurt
+40.2568622	28.9532245	Ceylan International Hospital		
+41.0600854	28.7739432	İstanbul Tema Hastanesi		
+41.6371858	32.3312007	Yaşam Tıp Merkezi		
+37.5938896	36.9226498	Yörük Selim Ek Hizmet Binası		
+41.0303249	28.9070788	Bayrampaşa 1 Nolu Yabancı Uyruklular Polikliniği	İstanbul	Bayrampaşa
+41.0431277	28.8201612	Bağcılar 28 Nolu Aile Sağlığı Merkezi	İstanbul	Bağcılar
+41.0028506	28.9370757	Acil Tıp Kliniği		
+41.0613263	28.9920220	Alpha Hair Central	İstanbul	Şişli
+41.0199922	28.9348553	Bezmialem Vakıf Üniversitesi Tıp Fakültesi Acil Tıp		
+41.0375948	28.9900446	Şişli Hamidiye Etfal Eğitim ve Araştırma Hastanesi Gümüşsuyu Binası	İstanbul	Beyoğlu
+40.9973977	29.0428574	Hasanpaşa Aile Sağlığı Merkezi	İstanbul	Kadiköy
+40.9785089	28.8718638	Bakırköy 4 Nolu Aile Sağlığı Merkezi	İstanbul	Bakırköy
+40.7121764	29.9289516	Başiskele Semt Polikliniği	Başiskele	
+40.9332716	29.1239632	Kartal Dr. Lütfi Kırdar Eğitim ve Araştırma Hastanesi KADİR REZZAN HAS ADATEPE POLİKLİNİĞİ		
+41.0229665	29.2185310	fsm tıp merkezi		
+38.4407390	27.1727482	Çınarlı Kadın Doğum Hastanesi		
+39.1988306	35.0047224	Yenifakılı Devlet Hastanesi		
+40.9826508	29.0927519	Medient	İstanbul	Kadıköy
+38.3588600	34.0406494	İnova Hastanesi		
+41.0203306	28.5786177	Büyükçekmece Aile Sağlığı Merkezi		
+36.7529615	34.5361500	City Hospital		
+37.0388733	35.8154688	Ceyhan Çocuk Hastanesi		
+36.2358420	36.1697494	Özel Antakya Akademi Hastanesi		
+36.4798018	36.3554816	Özel Can Hastanesi		
+36.5963037	30.5490564	Özel Dentkemer Ağız ve Diş Sağlığı Polikliniği	Antalya	Kemer
+36.5514414	31.9781673	Alara medical plaza	Alanya/Antalya	
+41.0168104	28.6041953	Sağlık Ocağı		
+41.0221279	29.0418888	Bahceci		
+41.0168625	28.9339596	İstanbul Üniversitesi Tıp Fakültesi Hastanesi	İstanbul	Fatih
+41.0242924	28.9743145	Özel Avusturya Sen Jorj Hastanesi	İstanbul	Beyoğlu
+39.9306877	32.8624088	Hacettepe Üniversitesi Hastaneleri		
+41.6338147	28.0908585	Vize 3 No'lu Acil Sağlık Hizmetleri İstasyonu	Kırklareli	Kıyıköy
+41.0133418	28.6568742	Medihaus		
+40.7789996	30.3981390	Marmara Göz Hastanesi		
+40.7664244	29.9659599	ÖZEL DENGE TIP MERKEZİ		
+40.7685976	29.9519017	Mehmet Ali Paşa Aile Sağlığı Merkezi		
+40.9410585	29.1167634	Maltepe 4 Nolu Aile Hekimliği		
+37.7779559	29.0567611	Denipol Hastanesi		
+40.9226879	29.1338782	ARES Psikolojik Danışmanlık Merkezi	İstanbul	Maltepe
+36.9069604	30.6863729	Çallı Meydan Tıp Merkezi		
+41.3347351	27.9807384	Hürriyet Aile Sağlığı Merkezi		
+39.6282828	26.9856043	Ortaoba Köyü Sağlık Evi		
+39.5775418	26.6780777	Edremit Narlı Sağlık Evi		
+37.0332540	27.4395875	Bodrum Tıp	Muğla	Bodrum
+41.3735147	27.1468178	Alpullu Aile Sağlığı Merkezi		
+41.0738730	28.9038241	Özel Asya Hastanesi	İstanbul	Gaziosmanpaşa
+41.0695422	28.9073845	Özel Bilge Hastanesi	İstanbul	Gaziosmanpaşa
+41.0596967	28.9123842	Avrupa Özel Şafak Hastanesi	İstanbul	Gaziosmanpaşa
+40.9804944	29.1255715	Küçükbakkalköy Aile Sağlığı Merkezi		
+41.1562495	27.8167942	Özel Dünyagöz Tıp Merkezi		
+41.1559947	27.8182902	Dünyagöz Acil Emergency		
+41.1561191	27.8184342	Vega Hospital		
+41.1506804	27.8298725	Optimed International Çorlu Hastanesi		
+37.3665258	29.5534727	Yazır Aile Sağlığı Merkezi	Denizli	Acıpayam
+37.0532646	35.2544365	Özel Medline Hastanesi	Adana	Çukurova
+41.4001530	27.3644330	Özel Lüleburgaz Tıp Merkezi	Lüleburgaz	Lüleburgaz
+41.0025741	28.6261789	NGY Med Dental Clinic	İstanbul	Beylikdüzü
+38.3981513	27.0953477	Metropol Tıp Merkezi		
+40.6892211	30.2568951	Sapanca İlçe Hastanesi		
+39.9629747	32.8294212	Kadın Doğum Hastanesi		
+39.9658986	32.8314799	Ortopedi ve Nöroloji Hastanesi		
+39.9671983	32.8306779	"Göğüs, Kalp ve Damar Hastalıkları Hastanesi"		
+39.9638523	32.8324801	Genel Hastane		
+39.9616560	32.8302516	Onkoloji Hastanesi		
+39.9640568	32.8290487	Kadın Doğum Ve Çocuk Acil		
+39.9656233	32.8290858	Çocuk Hemodiyaliz		
+40.2327279	28.9801761	Özel PembeMavi Hastanesi		
+41.2860523	27.9967343	Gaziosmanpaşa Sile Sağlığı Merkezi		
+40.5329474	41.5449439	Uzundere Şehit İhsan Erdoğan İlçe Entegte Devlet Hastanesi		
+39.9641333	32.8321434	Hemodiyaliz		
+39.9597723	32.8267915	Tıbbi Gözlem Kliniği		
+39.9649757	32.8284088	Çocuk Hastanesi		
+39.9612455	32.8239916	Psikiyatri Kliniği		
+37.8497511	27.8373463	Fizik		
+38.7033593	35.5236732	Polyclinics Entrance		
+38.3901179	35.4892961	Eras Sağlık Kabini	kayseri	develi
+41.0276144	29.1157001	Üsküdar Üniversitesi Diş Hastanesi		
+41.0681352	28.9936561	Estepalace Clinic	İstanbul	Şişli
+37.0680677	37.3849493			
+38.5958356	38.1798511	Yazıhan Ilce Hastanesi		Malatya
+37.0197496	35.3187385	Cukurova Devlet Hastanesi		Adana
+38.3041371	38.2494164	Yesilyurt Hasan Calık Devlet Hastanesi		Malatya
+37.0273983	35.4017223	Ozel Batıkent Hastanesi		Adana
+37.0045597	35.3627774	Baskent Universitesi Hastanesi		Adana
+37.0787045	37.3666129	Dunyagoz Hastanesi		Gaziantep
+40.9823877	29.0713318	Özel Medipoint Tıp Merkezi	İstanbul	Kadıköy
+37.0161887	35.3204696	Özel Nobel Toros Hastanesi		Adana
+38.5671284	37.4889028	Darende Devlet Hastanesi		Malatya
+37.0570115	37.3773149	Tam Med Ozel Hastanesi		Gaziantep
+36.0870230	35.9826104	Samandag Devlet Hastanesi		Hatay
+37.0079517	35.3236869	Baskent Universitesi Seyhan Hastanesi		Adana
+38.7256800	35.4812179	System Hospital		
+37.0215715	35.3187597	Prof Dr Nusret Karasu Goğus Hastalıkları Hastanesi		Adana
+37.0196232	35.3218321	Adana Numune Egitim ve Arastırma Hastanesi		Adana
+37.0588123	37.3155033	Avukat Cengiz Gokcek Devlet Hastanesi		Gaziantep
+38.3477331	38.3047815	Gozde Hastanesi		Malatya
+38.2369940	36.8958664	Devlet Hastanesi		Kahramanmaraş
+37.0502890	35.2637289	Dr Ekrem Tok Ruh Saglıgı Hastalıkları Hastanesi		Adana
+37.0696715	36.2460919	Osmaniye Ozel Sevgi Hastanesi		Osmaniye
+36.4980196	36.3474123	Kırıkhan Devlet Hastanesi		Hatay
+38.3492460	38.3216898	Ozel EGM Hayat Hastanesi		Malatya
+38.3516230	38.3002107	Mavi Nokta Hastanesi		Malatya
+37.5780606	36.9314928	Yenisehir Devlet Hastanesi		Kahramanmaraş
+37.7815884	38.2931484	Adıyaman Dogum ve Cocuk Bakımevi Hastanesi		Adıyaman
+37.0563328	35.3621447	Çukurova Üniversitesi Tıp Fakültesi Balcalı Hastanesi		Adana
+37.5924570	36.9251437	Kahramanmaras Devlet Hastanesi		Kahramanmaraş
+37.1551200	38.8045306	Ozel Nev Hastanesi		Şanlıurfa
+37.1589122	38.7863751	Sanlıurfa Cocuk Hastalıkları Hastanesi		Şanlıurfa
+37.1647747	38.7814469	Sanlıurfa Kadın Hastalıkları ve Dogum Hastanesi		Şanlıurfa
+37.0733611	37.3648788	Dunya Goz Hastanesi		Gaziantep
+36.9997427	35.3192791	Numune Hastanesi Fatma Kemal Timucin Kalp Merkezi		Adana
+37.0600681	37.3788853	Ozel Yılmazer Hastanesi		Gaziantep
+37.0501723	35.2640332	Ozel BSK Metropark Hastanesi		Adana
+37.7550547	38.2489666	Adıyaman 82 Yıl Devlet Hastanesi		Adıyaman
+37.0162435	35.3224977	Adana Askeri Hastanesi		Adana
+40.7822722	29.9597843	Kocaeli Şehir Hastanesi Acil Girişi		
+39.1182505	27.1751773	Medigün		
+38.4349213	27.1923771	Yedigün Tıp Merkezi Çamdibi Şubesi	Gazi Osman Paşa Mahallesi	bornova
+40.7706148	32.0323983	Yeniçağa Devlet Hastanesi		
+38.4723339	27.0846320	Karşıyaka Göz Hastanesi		
+41.0233155	27.2314298	Kaşıkçı Sağlık Evi		
+36.6533943	31.6816726	Cure Plus Medical Clinic	Antalya	Alanya
+41.1797497	28.8860229	Acıbadem		
+37.0462959	35.2994832	95A - Özel Dermancan Tıp Merkezi	Adana	Çukurova
+36.0886926	36.0086360			
+40.7903190	29.4203328	Gebze Fatih Devlet Hastahanesi		
+40.8829325	29.2367531	Özel Baydent Ağız ve Diş Sağlığı Polikliniği		
+41.0730408	29.0179686	Bayındır Levent Tıp Merkezi	İstanbul	Beşiktaş
+41.0726109	29.0183816	Özel Etiler Hastanesi	İstanbul	Beşiktaş
+36.3069609	30.4630711			
+38.9126062	27.8264444	Özel Akhisar Doğuş Hastanesi		Akhisar
+38.9139883	27.8305462	Akhisar Mustafa Kirazoğlu Devlet Hastanesi	Manisa	Akhisar
+38.9184042	27.8084821	Akhisar Mustafa Kirazoğlu Devlet Hastahanesi Eski Bina		
+41.1475943	27.8117893	Fatih ASM		
+41.1482682	27.7818519	Mevlana ASM		
+41.0036740	28.9383347	Patológia		
+36.9493437	30.6278630	Aşır Aksu Ek Hizmet Binası		
+40.6753096	29.3938056	Sağlık Ocağı		
+41.0230164	29.0174216	Aktif International Hospital		
+41.1500602	27.8476731	Çorlu Ağız ve Diş Sağlığı Merkezi	Çorlu	Çorlu
+40.9840765	29.0584553	Marmara Tıp Merkezi	İstanbul	Kadıköy
+41.0083859	27.5245198	Tekirdağ Doktor İsmail Fehmi Cumalıoğlu Şehir Hastanesi Acil		Süleymanpaşa
+37.1810940	33.2099716	Resul Ülkümen Veteriner Kliniği	Karaman	Karaman Merkez
+41.4440128	27.9155193	Sebahat Mehmet Perver Aile Sağlığı Merkezi		
+39.8984326	32.7575882	Ankara Bilkent Şehir Hastanesi Radyasyon Onkolojisi		
+41.0554262	28.3671171	Selimpaşa Aile Sağlığı Merkezi		
+39.8799317	32.8002567	Erdoğan Şahinoğlu A. S. M	Çankaya/Ankara	Çiğdem Mahallesi
+37.0520661	27.3818046	Dent Halikarnas	Muğla	Bodrum
+41.0714522	29.0151774	Medicana Zincirlikuyu Hastanesi	İstanbul	Şişli
+40.7602438	30.3620976	Özel Medar Hastanesi Acil Girişi		
+40.7560786	30.3903580	SEAH Ambulans Acil Girişi		
+40.7563157	30.3896103	SEAH Sarı Alan Acil Girişi		
+40.7562616	30.3888048	SEAH Yeşil Alan Acil Girişi		
+40.7573320	30.3877892	SEAH Çocuk Acil		
+40.7575766	30.3879998	SEAH Doğum Acil		
+40.7575287	30.3887840	SEAH Kadın Doğum ve Çocuk Hastalıkları Hizmet Binası Girişi		
+36.8559801	34.6099300	Kadın Doğum Acil		
+36.8558909	34.6095262	Çoçuk Acil		
+36.8556954	34.6094766	Yetişkin Acil		
+39.8951733	30.0557878	Bozüyük Devlet Hastanesi		
+41.0215680	29.1198759	Erdem Hastanesi		
+36.8600606	30.7989649	Eye Surgery Antalya		
+36.8591124	30.7974950	Eye Surgery Antalya	antalya	muratpaşa
+40.7839881	29.9593259	Kadın Doğum ve Çocuk Hastanesi (B Blok) Girişi		
+40.7834440	29.9615905	Genel Hastane (A Blok) Girişi		
+40.7832723	29.9602459	Kocaeli Şehir Hastanesi C Blok (Ana Giriş)		
+40.7824423	29.9620461	Kocaeli Şehir Hastanesi KVC Girişi		
+40.7667898	30.4135145	Beyhekim Hastanesi		
+40.8010206	29.4317337	Merkez Hastanesi		
+38.4700090	27.1775954	İzmir Alsancak Ağız ve Diş Sağlığı Merkezine Bağlı Bayraklı Ağız ve Diş Sağlığı Polikliniği		
+40.4925711	29.3116351	Atakent cerrahi tıp merkezi		
+41.1590640	28.9116200	Eyüp Kemerburgaz Aile Sağlığı Merkezi		
+41.0361260	37.4880662	Fatsa İlçe Sağlık Müdürlüğü		
+41.0254232	28.8487524	Bağcılar İşitme Engelli Rehabilitasyon Merkezi		
+37.9317883	40.1997460	Polikinlik		
+39.1545315	34.1614371	Ahi Ortak Sağlık Güvenlik Birimi (OSGB)		
+41.0373376	29.2352315	Çekmeköy Devlet Hastanesi		
+41.0378066	29.2351897	Şehit Prof. İlhan Varank Eğitim ve Araştırma Hastanesi - Çekmeköy Ek Hizmet Binası		
+38.4679306	27.2199246	Özel Oksijen Sağlık Kabini		
+41.6219427	32.3413830	Yeni AKTIP		
+41.5841943	27.7537747	Vize Devlet Hastanesi		Vize
+39.1059342	27.1751245	Bergama Necla-Mithat Öztüre Devlet Hastanesi Toplum Ruh Sağlığı Merkezi		
+37.8804182	32.4910730	Konya Numune Hastanesi Acil		
+41.0567006	28.9153423	Özel Belde Tıp Merkezi	İstanbul	Gaziosmanpaşa
+39.5013120	29.8294629	(Kütahya Şehir Hastanesi) Yoncalı Fizik Tedavi ve Rehabilitasyon Hastanesi		
+39.5010376	29.8294952	Kütahya Şehir Hastanesi Yoncalı Yerleşkesi		
+41.8250971	27.7711113	Demirköy İlçe Devlet Hastanesi	Demirköy	Demirköy
+41.1053069	42.6909990	Ardahan Ağız Ve Diş Sağlığı Merkezi	Ardahan	
+39.7392707	37.0373628	Sivas ÇAGEM	Sivas	Merkez
+37.8287577	30.5383167	Prof. Dr. Timuçin Baykul Engelsiz Ağız ve Diş Sağlığı Hastanesi		
+36.8488456	34.7819180	Yenitaşkent Aile Sağlığı Merkezi		
+40.7198329	29.7957444	Gölcük Necati Çelik Acil Girişi		
+40.7180701	29.8149579	Gölcük Necati Çelik Devlet Hastanesi Semt Polikliniği		
+41.4494876	31.7816897	Özel Level Hospital		
+38.2384068	27.1358610	Menderes Devlet Hastanesi		
+41.0525054	28.9599740	Özel Okmeydanı hastanesi		
+40.2075068	28.9906163	Diş Hekimi Anıl Aslan	Bursa	Nilüfer
+38.7131866	35.4901439	Uzman Diş Hastanesi		
+41.0550656	28.9852615	ENT Clinic-Dr. Selcuk Guney	İstanbul	Şişli
+39.1174993	27.1776540	İzmir Bergama 13 Nolu Ertuğrul Aile Sağlığı Merkezi	İzmir	Bergama
+39.1040237	27.1666876	İzmir Bergama 11 Nolu Güzeloğulları Aile Sağlığı Merkezi	İzmir	Bergama
+39.1167956	27.1752104	İzmir Bergama 1 Nolu Aile Sağlığı Merkezi	İzmir	Bergama
+39.1166512	27.1751339	Bergama Toplum Sağlığı Merkezi		
+39.1168054	27.1745806	İzmir Bergama 1 Nolu Sağlıklı Hayat Merkezi		
+39.1169245	27.1746731	İzmir Bergama 1 Nolu Acil Yardım İstasyonu		
+39.1104522	27.1726023	İzmir Bergama 4 Nolu Dr. Hasan Ergil Aile Sağlığı Merkezi	İzmir	Bergama
+38.3514348	38.3005764	Özel Divan Hastanesi		
+37.5873802	36.8259264	Tıp Fakültesi		
+41.2723236	27.9757857	Gültepe Aile Sağlığı Merkezi		
+38.6566373	39.1572093	Anadolu Hastanesi		
+40.9175739	26.3801620	İpsala Devlet Hastanesi	İpsala	İpsala
+37.1581514	38.7883461	Şanlıurfa Toplum ve Ruh Sağlığı Merkezi		
+38.2824213	31.9155298	DentReal Ilgın Ağız ve Diş Sağlığı Polikliniği	Konya	Ilgın
+41.1226242	43.1382465	Çıldır ilçe devlet hastanesi		
+39.7277777	37.8598448	Korkut Köyü Sağlık Ocağı		
+41.0562343	28.6719772	İstinye Üniversite Hastanesi		
+41.1577165	28.6273395	Özel Lilyum Tıp Merkezi	İstanbul	
+41.2909587	27.9951194	Sevgi Aile Sağlığı Merkezi		
+41.7436089	27.2099255	Merkez 10 No'lu Aile Sağlığı Merkezi		
+40.6482563	35.8318344	Amasya Ağız Ve Diş Sağlığı Merkezi		
+41.1334068	34.4852178	Ahmet Hamdi Akpınar İlçe Devlet Hastanesi	Çorum	Kargı
+41.0171848	27.3724513	Bıyıkali Sağlık Evi		
+41.0315700	28.9755784			
+41.2678340	28.0301658	Mazhar Buyruk Aile Sağlığı Merkezi		
+36.9833554	35.3376462	Adana Karşıyaka Devlet Hastanesi		Yüreğir
+41.0286952	28.6683658			
+40.7681225	30.4165061			
+40.9841576	27.5698184	Asst. Prof. Dr. Bilgehan Potoğlu - Neurosurgery	Tekirdağ	Süleymanpaşa
+36.8592558	30.7888781	cinsel saglık hattı merkezi	Antalya	Muratpaşa
+39.1928535	35.2404291	Bogazlıyan 1 nolu Aile Sağlığı Merkezi		
+36.9835701	35.3376949	Adan Karşıyaka Devlet Hastanesi		
+40.9771970	27.5155322	Rüstempaşa Aile Sağlığı Merkezi		
+37.8589039	38.4277975	"Kömür Bld. Aile Sağlık Merkezi, Sağlık Ocağı"		
+41.0523465	29.0761361	Özel Medivia Hastanesi		
+40.9977560	27.5868712	Tekirdağ Namık Kemal Üniversitesi Tıp Fakültesi Hastanesi		
+41.1568288	27.8115080	Trakyum Optik		
+39.9502890	32.6121224	Lider Tıp Merkezi		
+41.0355011	28.8597775	Bağcılar Meydan TRSM	İstanbul	Bağcılar
+38.3758925	26.8923710	Urla Devlet Hastanesi Güzelbahçe Polikliniği		
+41.0245523	29.0999874	Özel Sondurak Ümran Tıp Merkezi		
+41.4427833	27.9200440	Ayazpaşa Aile Sağlığı Merkezi		
+37.0909390	41.1910776	Nusaybin Ağız ve Diş Sağlığı Merkezi		
+38.2454820	33.5429928	Sultanhanı Devlet Hastanesi		
+38.0568912	30.1476549	Dinar Devlet Hastanesi		
+40.9875805	28.8623764	Psikiyatri Acil		
+40.9875125	28.8620669	"ATÜ Erişkin Psikiyatri Poliklinikleri, Hasta Hakları, Sosyal İnceleme"		
+37.7238237	31.4385488	Gölyaka Sağlık Ocağı		
+37.8188652	29.6072590	Bozkurt Aile Sağlığı Merkezi		
+40.2146893	29.0675440	Bursa Dr. Ayten Bozkaya Spastik Çocuklar Hastanesi Ve Rehabilitasyon Merkezi	Bursa	Osmangazi
+40.4722602	29.1030043	Küçükkumla Sağlık Ocağı		
+40.4793659	29.0648808	Karacaali Sağlık Ocağı		
+39.9881226	32.8619076			
+40.9938199	28.9164389	ttt		
+37.0763320	37.3696100	Dr. Ersin Arslan Eğitim ve Araştırma Hastanesi Mücahitler Ek Binası		
+41.6124333	32.3191758	Acil Servis		
+40.7821523	35.0188734	Hamamözü Devlet Hastanesi		
+36.3340119	30.4361845	Kumluca Adrasan Aile Salığı Merkezi		
+40.8447305	29.3036368	Acıl Girişi		
+41.2433639	36.3221086	Samsun Şehir Hastanesi		
+37.7825690	30.5615278	Isparta Ağız ve Diş Sağlığı Merkezi		
