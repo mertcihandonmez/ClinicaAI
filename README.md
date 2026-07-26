@@ -158,7 +158,7 @@ Proje, hem Hasta Modu hem de Klinik Asistan Modu için sistematik olarak test ed
 
 ## 👤 Geliştirici
 
-Mert Cihan — Microsoft AI Innovators Summer Internship 2026
+Mert Cihan Dönmez — Microsoft AI Innovators Summer Internship 2026
 
 ---
 
